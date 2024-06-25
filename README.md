@@ -2,7 +2,7 @@
 ![](educacion4.jpg)
 # En este repositorio iré subiendo ejercicios resueltos de análisis de datos relacionados con el ÁMBITO de la EDUCACIÓN y las diferentes METODOLOGÍAS DE ESTUDIO y APRENDIZAJE.
 # 
-<"https://www.kaggle.com/datasets?search=education" target="_blank">
+<"https://www.kaggle.com/datasets?search=education">
 
 ![](kaggle.png)
 # Se trata de ir viendo la evolución y consolidación de los conceptos adquiridos en el análisis de datos.
